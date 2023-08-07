@@ -33,10 +33,12 @@ This application is used for viewing and analyzing data from the MES and ERP dat
 ## Disclaimer
 
 This project was build especially for a internal use and it will not work in any other application since it is based on dedicated internal software.
-![ZCP QV](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/c3ab22a6-1b04-4b84-8283-bdc2713ea8eb)
-![ZCP QV2](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/db988321-7ade-4308-b6b1-639cd8cf6ef8)
-![ZCP QV3](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/f5d4e4ea-0063-4279-a180-472828a7097e)
-![ZCP QV4](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/d6bb1206-971b-4ad1-8ca1-123342d4c7c3)
+
+## Screenshots
+![ZCP QV2](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/9a4b6ed6-883a-4696-ae7b-e773cba551f9)
+![ZCP QV3](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/2a6c9eef-5d50-481d-ad02-3e30024ddd9b)
+![ZCP QV4](https://github.com/swietlikm/ZCP_QuickView/assets/121583766/778b9405-8185-4474-a2c6-638f738245d1)
+
 
 
 
